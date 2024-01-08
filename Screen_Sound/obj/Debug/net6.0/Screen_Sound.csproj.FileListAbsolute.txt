@@ -1,0 +1,15 @@
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\bin\Debug\net6.0\Screen_Sound.exe
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\bin\Debug\net6.0\Screen_Sound.deps.json
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\bin\Debug\net6.0\Screen_Sound.runtimeconfig.json
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\bin\Debug\net6.0\Screen_Sound.dll
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\bin\Debug\net6.0\Screen_Sound.pdb
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.csproj.AssemblyReference.cache
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.AssemblyInfoInputs.cache
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.AssemblyInfo.cs
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.csproj.CoreCompileInputs.cache
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.dll
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\refint\Screen_Sound.dll
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.pdb
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\Screen_Sound.genruntimeconfig.cache
+C:\Users\joao.carvalho\source\repos\Screen_Sound\Screen_Sound\obj\Debug\net6.0\ref\Screen_Sound.dll
